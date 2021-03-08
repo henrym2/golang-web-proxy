@@ -38,7 +38,7 @@ A simple golang web proxy written to include a web page cache and exclusion list
 
 ### Built With
 
-* [Bootstrap](https://golang.org/)
+* [Golang](https://golang.org/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
